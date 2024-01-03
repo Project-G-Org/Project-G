@@ -2,8 +2,8 @@
 	path = mobile
 	url = https://github.com/Project-G-Org/Project-G-Mobile.git
 
-[submodule "api"]
-	path = server
+[submodule "pangoliny"]
+	path = pangoliny
 	url = https://github.com/Project-G-Org/project-g-server.git
 
 [submodule "client"]
